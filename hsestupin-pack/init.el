@@ -4,6 +4,7 @@
 ;; See README for more information.
 
 ;; Load bindings config
+(live-load-config-file "look-and-feel.el")
 (live-load-config-file "bindings.el")
 (live-load-config-file "macbook.el")
 (live-load-config-file "misc.el")
